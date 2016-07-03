@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : Jun 3, 2015, 12:46:02 PM
-    Author     : Pionir SU
+    Author     : Pionir SU xxxx
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
